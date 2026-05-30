@@ -1,0 +1,15 @@
+config
+config.php
+.htaccess
+.htpasswd
+wp-config.php
+.env
+.env.bak
+.git
+.gitignore
+composer.json
+composer.lock
+debug
+debug.log
+logs
+logfile.txt

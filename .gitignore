@@ -1,0 +1,14 @@
+# virtual environments
+venv/
+env/
+.venv/
+
+# dependencies / build
+node_modules/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

@@ -1,0 +1,8 @@
+backup
+backups
+.bak
+backup.zip
+db_backup
+old
+old_site
+site_backup

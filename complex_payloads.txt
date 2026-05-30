@@ -1,0 +1,17 @@
+admin/../../../../etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+admin%2F%2E%2E%2F
+admin%2F%2E%2E%2Fsecret
+admin%2F..%2Fconfig
+~admin
+~root
+mysql-admin
+mysql
+admin/phpmyadmin
+cgi-bin
+phpmyadmin
+phpMyAdmin-5.1.0
+wordpress/wp-admin
+joomla/administrator
+drupal/admin
+magento/admin

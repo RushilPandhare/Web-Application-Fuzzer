@@ -1,0 +1,4 @@
+https://juice-shop.herokuapp.com/#/ : Hidden Directories & URL Parameter Testing
+rushil.com : Subdomains Testing
+Local abc.php & def.php files for URL Parameter Testing (SQL & XSS Injection Attacks)
+vulnweb.com : Virtual Hosts & API Endpoints

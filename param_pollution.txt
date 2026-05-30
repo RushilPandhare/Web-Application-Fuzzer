@@ -1,0 +1,10 @@
+&param=value&param=value2
+?id=1&id=2
+?user=admin&user=guest
+&search=foo&search=bar
+?item=1&item=2&item=3
+?lang=en&lang=fr
+&sort=asc&sort=desc
+?filter=on&filter=off
+&category=books&category=electronics
+?show=all&show=none

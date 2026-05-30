@@ -1,0 +1,9 @@
+admin
+admin-panel
+admin/login
+administrator
+cpanel
+webadmin
+dashboard
+wp-admin
+wp-login.php
